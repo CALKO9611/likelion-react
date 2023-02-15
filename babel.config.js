@@ -1,5 +1,5 @@
-const bableConfig = {
+const babelConfig = {
   "presets": ["@babel/preset-env"]
 };
 
-export default bableConfig;
+export default babelConfig;
